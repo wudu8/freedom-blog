@@ -32,7 +32,7 @@
 ```bash
 npm install
 
-npm start
+npm vite
 ```
 
 使用浏览器访问：`http://localhost:3000`
